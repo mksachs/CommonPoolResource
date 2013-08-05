@@ -1,0 +1,304 @@
+// !$*UTF8*$!
+{
+	256AC3F00F4B6AF500CF3369 /* CPRM_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1529, 1045}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 139}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = B8719DAA13C3B1520045A5F2 /* CPRM_cl */;
+		activeTarget = B8719DA813C3B1520045A5F2 /* CPRM_cl */;
+		addToTargets = (
+			B8719DA813C3B1520045A5F2 /* CPRM_cl */,
+			8D1107260486CEB800E47090 /* CPRM */,
+		);
+		codeSenseManager = B8719DA513C3B14F0045A5F2 /* Code sense */;
+		executables = (
+			B8719D9613C3B1310045A5F2 /* CPRM */,
+			B8719DAA13C3B1520045A5F2 /* CPRM_cl */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					2091,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1311,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 333402446;
+			PBXWorkspaceStateSaveDate = 333402446;
+		};
+		perUserProjectItems = {
+			B888610613DF5D11009F0CC0 /* PBXTextBookmark */ = B888610613DF5D11009F0CC0 /* PBXTextBookmark */;
+			B888611713DF74CF009F0CC0 /* PBXTextBookmark */ = B888611713DF74CF009F0CC0 /* PBXTextBookmark */;
+			B888626D13E0A1E5009F0CC0 /* PBXTextBookmark */ = B888626D13E0A1E5009F0CC0 /* PBXTextBookmark */;
+			B888626F13E0A1E5009F0CC0 /* PBXTextBookmark */ = B888626F13E0A1E5009F0CC0 /* PBXTextBookmark */;
+			B888627013E0A1E5009F0CC0 /* PBXTextBookmark */ = B888627013E0A1E5009F0CC0 /* PBXTextBookmark */;
+			B888627213E0A1E5009F0CC0 /* PBXTextBookmark */ = B888627213E0A1E5009F0CC0 /* PBXTextBookmark */;
+			B888628413E0AB84009F0CC0 /* PBXTextBookmark */ = B888628413E0AB84009F0CC0 /* PBXTextBookmark */;
+			B888628613E0C80F009F0CC0 /* PBXTextBookmark */ = B888628613E0C80F009F0CC0 /* PBXTextBookmark */;
+			B888628713E0C80F009F0CC0 /* PBXTextBookmark */ = B888628713E0C80F009F0CC0 /* PBXTextBookmark */;
+		};
+		sourceControlManager = B8719DA413C3B14F0045A5F2 /* Source Control */;
+		userBookmarkGroup = B888609413DF514E009F0CC0 /* PBXBookmarkGroup */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1051, 1284}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 235}";
+		};
+	};
+	8D1107260486CEB800E47090 /* CPRM */ = {
+		activeExec = 0;
+		executables = (
+			B8719D9613C3B1310045A5F2 /* CPRM */,
+		);
+	};
+	B8719D9613C3B1310045A5F2 /* CPRM */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CPRM;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	B8719DA413C3B14F0045A5F2 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	B8719DA513C3B14F0045A5F2 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	B8719DA813C3B1520045A5F2 /* CPRM_cl */ = {
+		activeExec = 0;
+		executables = (
+			B8719DAA13C3B1520045A5F2 /* CPRM_cl */,
+		);
+	};
+	B8719DAA13C3B1520045A5F2 /* CPRM_cl */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CPRM_cl;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	B8719DBC13C3B1AD0045A5F2 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1051, 1284}}";
+			sepNavSelRange = "{1225, 0}";
+			sepNavVisRange = "{0, 1283}";
+		};
+	};
+	B8719DC413C3B29C0045A5F2 /* CPRM.h */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{2100, 1794}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 6089}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1251, 1833}}";
+			sepNavSelRange = "{2279, 0}";
+			sepNavVisRange = "{804, 3459}";
+		};
+	};
+	B8719DC513C3B29C0045A5F2 /* CPRM.cpp */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{1382, 107}\";\n            s = 0;\n        },\n                {\n            r = \"{7966, 760}\";\n            s = 0;\n        },\n                {\n            r = \"{8771, 107}\";\n            s = 0;\n        },\n                {\n            r = \"{8921, 395}\";\n            s = 0;\n        },\n                {\n            r = \"{9508, 1641}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 13931}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1377, 4238}}";
+			sepNavSelRange = "{1506, 0}";
+			sepNavVisRange = "{312, 3525}";
+		};
+	};
+	B888609413DF514E009F0CC0 /* PBXBookmarkGroup */ = {
+		isa = PBXBookmarkGroup;
+		children = (
+			B888609D13DF5175009F0CC0 /* PBXBookmark */,
+		);
+		name = Root;
+	};
+	B888609D13DF5175009F0CC0 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B8719DC413C3B29C0045A5F2 /* CPRM.h */;
+	};
+	B888610613DF5D11009F0CC0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 235;
+		vrLoc = 0;
+	};
+	B888611713DF74CF009F0CC0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B8719DC413C3B29C0045A5F2 /* CPRM.h */;
+		name = "CPRM.h: 137";
+		rLen = 0;
+		rLoc = 4814;
+		rType = 0;
+		vrLen = 3304;
+		vrLoc = 2407;
+	};
+	B888626D13E0A1E5009F0CC0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B888626E13E0A1E5009F0CC0 /* connectJicama.sh */;
+		name = "connectJicama.sh: 5";
+		rLen = 0;
+		rLoc = 164;
+		rType = 0;
+		vrLen = 164;
+		vrLoc = 0;
+	};
+	B888626E13E0A1E5009F0CC0 /* connectJicama.sh */ = {
+		isa = PBXFileReference;
+		name = connectJicama.sh;
+		path = /Users/sachs/connectJicama.sh;
+		sourceTree = "<absolute>";
+	};
+	B888626F13E0A1E5009F0CC0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B8719DC513C3B29C0045A5F2 /* CPRM.cpp */;
+		name = "CPRM.cpp: 35";
+		rLen = 0;
+		rLoc = 757;
+		rType = 0;
+		vrLen = 3256;
+		vrLoc = 0;
+	};
+	B888627013E0A1E5009F0CC0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B8719DBC13C3B1AD0045A5F2 /* main.cpp */;
+		name = "main.cpp: 28";
+		rLen = 0;
+		rLoc = 499;
+		rType = 0;
+		vrLen = 1236;
+		vrLoc = 0;
+	};
+	B888627213E0A1E5009F0CC0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B8719DC513C3B29C0045A5F2 /* CPRM.cpp */;
+		name = "CPRM.cpp: 78";
+		rLen = 0;
+		rLoc = 2097;
+		rType = 0;
+		vrLen = 4231;
+		vrLoc = 2429;
+	};
+	B888628413E0AB84009F0CC0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B8719DC413C3B29C0045A5F2 /* CPRM.h */;
+		name = "CPRM.h: 127";
+		rLen = 0;
+		rLoc = 4072;
+		rType = 0;
+		vrLen = 5252;
+		vrLoc = 804;
+	};
+	B888628613E0C80F009F0CC0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B8719DBC13C3B1AD0045A5F2 /* main.cpp */;
+		name = "main.cpp: 50";
+		rLen = 0;
+		rLoc = 1225;
+		rType = 0;
+		vrLen = 1283;
+		vrLoc = 0;
+	};
+	B888628713E0C80F009F0CC0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B8719DC513C3B29C0045A5F2 /* CPRM.cpp */;
+		name = "CPRM.cpp: 65";
+		rLen = 0;
+		rLoc = 1612;
+		rType = 0;
+		vrLen = 3631;
+		vrLoc = 312;
+	};
+}

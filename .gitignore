@@ -11,3 +11,10 @@
 *.lai
 *.la
 *.a
+
+**/.DS_Store
+**/build
+**/*.pyc
+**/UserInterfaceState.xcuserstate
+
+
